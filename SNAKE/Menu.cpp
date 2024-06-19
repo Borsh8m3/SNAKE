@@ -5,7 +5,7 @@ Menu::Menu()
 	polozenie = 0;
 	obecnie_wybrana_opcja = 0;
 	//w tym miejscu dodajemy opcje do menu:
-	MenuGlowne.push_back("Graj ze mnπ\t\t");
+	MenuGlowne.push_back("Graj\t\t");
 	MenuGlowne.push_back("Lista gier\t\t");
 	MenuGlowne.push_back("Wyjdü z programu\t");
 	//ustawianie pozycji 0
