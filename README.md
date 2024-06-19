@@ -2,7 +2,7 @@
 A simple snake console game, in C++, developed during classes at university.
 # Running the game locally
 1. Clone the repository or download all files below.
-2. sort the files into appropriate folders
+2. Sort the files into appropriate folders
 
 Source files:
 - main.cpp
@@ -15,3 +15,5 @@ Headre files:
 - Plansza.h
 - Polozenie.h
 - Waz.h
+
+ 3. Enjoy the game :)
