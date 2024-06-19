@@ -16,4 +16,4 @@ Headre files:
 - Polozenie.h
 - Waz.h
 
-Enjoy the game :)
+3. Enjoy the game :)
